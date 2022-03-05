@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdulrahman Saleh
 - 👀 I’m interested in the Artificial Intelligence field
-- 🌱 I’m currently learning using python to work in different projects
+- 🌱 I’m currently using python to work on different projects
 - 📫 How to reach me a.mahdi.s@hotmail.com
 
 <!---
