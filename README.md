@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a-mahdi
-- 👀 I’m interested in learning different skills
-- 🌱 I’m currently learning java programming
+- 👀 I’m interested in the Artificial Intelligence field
+- 🌱 I’m currently learning using python to work in different projects
 - 📫 How to reach me a.mahdi.s@hotmail.com
 
 <!---
